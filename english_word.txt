@@ -1,0 +1,432 @@
+### Space
+Debris	Mảnh vỡ nhỏ
+The cosmos	Vũ trụ
+Galaxy	Thiên hà
+Astronomer	Nhà thiên văn học
+Launch A Missile	Phóng tên lửa
+Meteor	Thiên thạch
+Orbit	Quỹ đạo
+Outer Space	Ngoài không gian
+Radition	Bức xạ
+Satellite	Vệ tinh
+Spacecraft,Spaceship	Tàu không gian
+Gravity	Trọng lực
+Lunar	Thuộc về mặt trăng
+Terrestrial	Thuộc về trái đất
+Uninhabitable	Không thể sống được
+Unmanned	Không có người
+Astronomy	Thiên văn học
+Acclimatise	Thích nghi
+Wane	Khuyết dần
+Wax	Tròn dần
+Eclipse	Che khuất
+Telescope	Kính thiên văn
+Vernal Equinox	Xuân Phân
+Crescent moon	Trăng lưỡi liềm
+Transit	Đi ngang qua
+Constellation	Chòm sao
+Crater	Miệng nũi lửa
+Comet	Sao chổi
+Inertia	Quán tính
+Spectrum	Quang phổ
+Supernova	Siêu tân tinh
+
+### Economic
+Commercial Possibilities	Khả năng thương mại hóa
+Capital Investment	Đầu tư vốn
+Gross Output	Tổng sản lượng
+Trade Barrier	Rào cản thương mại
+Import Quotas	Hạn ngạch nhập khẩu
+Freight	Vận chuyển hàng hóa
+Domestic market	Thị trường nội địa
+Monopoly	Độc quyền
+Transaction	Giao dịch
+Ex-Vessel Value	Giá xuất xưởng
+Bankrupt	Phá sản
+Consumer Goods	Hàng tiêu dùng
+Debt	Món nợ
+Deposit	Tiền gửi
+Inflation	Lạm phát
+Fiscal	Tài chính
+Interest	Quan tâm
+Recession	Suy thoái
+Stock market	Thị trường chứng khoán
+Asset	Tài sản
+Barter	Trao đổi hàng hóa
+Bonds	Trái phiếu
+Commodity	Hàng hóa
+Collateral	Thế chấp
+Capitalism	Chủ nghĩa tư bản
+Enterprise	Doanh nghiệp
+Labour Intensive	Công nghiệp nặng
+Porverty	Đói nghèo
+Profit margin	Biên lợi nhuận
+Subsidy	Trợ cấp
+Share	Chia sẻ
+
+### Argiculture
+Aqueduct	Cống thoát nước
+Dam	Đập
+Irrigation	Tưới tiêu
+Reservoir	Hồ chưa nước
+Infrastructure	Cơ sở hạ tầng
+Prevervation	Bảo tồn
+Fertiliser	Phân bón
+Pesticide	Thuốc trừ sâu
+Livestock	Gia súc
+Genetic Engineering	Công nghệ biến đổi gen
+Yeild	Hiệu suất
+Produce	Sản xuất, năng suất, nông sản
+Intensive Farming	Chăn nuôi nập trung
+Arable	Có thể trồng được
+Organic	Hữu cơ
+Agriculture	Canh tác
+Fertile	Màu mỡ
+Erode	Làm sói mòn
+Pest	Sâu bọ
+Crop	Mùa vụ
+Insecticide	Thuốc diệt côn trùng
+Breed	Loài
+Havoc	Phá hoại
+Proliferation	Sinh sôi nảy nở
+Disperser	Phân tán
+Parasite	Ký sinh trùng
+Weevil	Con mọt
+Weed	Cỏ dại, cần sa
+Harvest	Mùa thu hoạch
+Food security	An ninh lương thực
+Crop Varieties	Đa dạng hoa màu, giống cây trồng
+Peasant	Nông dân
+Seasonal	Theo mùa
+Verdant	Tươi tốt
+Arid	Khô cằn
+Monsoon	Mùa mưa
+Herbicide	Thuốc diệt cỏ
+Edible	Có thể ăn được
+Tractor	Máy kéo
+Plough	Cái cày, bừa
+Livelihood	Sinh kế
+
+### Education
+Prestigious	Có danh tiếng
+Intuitive	Trực giác
+Arithmetic	Số học
+Algebra	Đại số
+Cite	Viện dẫn
+Sketch	Phác hoạ
+Subconscious	Tiềm thức
+Insitution	Tổ chức
+Apt	Tài trí
+Philosophy	Triết học
+Ethical	Đạo đức
+Accquisition	Sự tiếp thu
+Endeavor	Nỗ lực
+Scrutiny	Xem xét kĩ lưỡng
+Noble	Đánh giá
+Cognitive	Nhận thức
+Perceptual	Tri giác
+Sensory	Thuộc về giác quan
+Pitch Perception	Cảm thụ âm
+Interference	Sự giao t hoa
+Nature	Nuôi nấng
+Suspenseful	Hồi hộp
+Distinction	Sự khác biết
+Hall Of Residence	Ký túc xá
+Gifted	Tài năng
+Peripheral	Ngoại biên
+Conventional	Truyền thống
+Accredited	Được công nhận
+Designate	Phân công
+Emulate	Bắt chước
+Tuition	Việc dạy, học phí
+Evaluation	Đánh giá
+Tendency	Thiên hướng
+Peer	Bạn cùng trang lứa
+Competent	Tài giỏi
+Ignorance	Sự kém hiểu biết
+Dictate	Đọc chép
+Elucidate	Giải thích
+Prodigy	Thần đồng
+Upbringing	Sự nuôi nấng
+
+### Enviroment
+Biodiversity	Đa Dạng Sinh Học
+Fossil Fuels	Nhiên Liệu Hóa Thạch
+Global Warming	Ấm Lên Toàn Cầu
+Carbon Emissions	Khí Thải Co2
+Algae	Tảo
+Atmosphere	Bầu Không Khí
+Volcanic Explosion	Phun Trào Núi Lửa
+Radiation	Bức Xạ
+The Tropics	Vùng Nhiệt Đới
+Precipitation	Lượng Mưa
+Firefighter	Nhân Viên Cứu Hỏa
+Climatic Shift	Biến Đổi Khí Hậu
+Climate Change	Biến Đổi Khí Hậu
+Drought	Hạn Hán
+Famine	Mất Mùa
+Hemisphere	Bán Cầu
+Temperature Variation	Thay Đổi Nhiệt Độ
+Rainfall	Lượng Mưa
+Greenhouse Gas	Khí Nhà Kính
+Climatic Regime	Kiểu Khí Hậu
+Synthetic Chemical	Hoá Chất Tổng Hợp
+Thaw	Làm Tan Chảy
+Ecology	Sinh Thái Học
+Sea Levels	Mực Nước Biển
+Terrain	Địa Hình
+Capricious	Dễ Thay Đổi
+Natural Resources	Tài Nguyên Thiên Nhiên
+Air Pollution	Ô Nhiễm Không Khí
+Soil Deterioration	Suy Giảm Chất Lượng Đất
+The Forest Ecosystem	Hệ Sinh Thái Rừng
+Photosynthesis	Quang Hợp
+Solar Energy	Năng Lượng Mặt Trời
+Power Plant	Nhà Máy Điện
+Urban	Đô Thị
+Rural	Nông Thôn
+Wildlife Species	Các Loài Động Vật Hoang Dã
+Genetic Diversity	Đa Dạng Di Truyền
+Deforestation	Phá Rừng
+Sustainable	Bền Vững
+Extinction	Tuyệt Chủng
+Die Out	Tuyệt Chủng
+Contaminate	Làm Ô Nhiễm
+Adaptation	Thích Nghi
+Bankrupt	Phá Sản
+Consumer Goods	Hàng Tiêu Dùng
+
+### Health
+Afflict	Hành Hạ
+Arthritis	Viêm Khớp
+Dementia	Suy Giảm Trí Nhớ
+Symptom	Triệu Chứng
+Cancer	Ung Thư
+Allergy	Dị Ứng
+Medical	Y Tế
+Treatment	Điều Trị
+Immune	Miễn Dịch
+The Disabled	Người Khuyết Tật
+Aging	Lão Hóa
+Illness	Bệnh
+Disease	Bệnh
+Pharmaceutical	Dược Phẩm
+Physician	Bác Sĩ
+Prescribe	Kê Đơn
+Drug	Thuốc
+Medicine	Thuốc
+Pill	Thuốc
+Chronic	Mãn Tính
+Fatigue	Kiệt Sức
+Lifespan	Tuổi Thọ
+Longevity	Tuổi Thọ
+Mutation	Đột Biến
+Immortality	Bất Tử
+Nutrition	Dinh Dưỡng
+Genetic	Gen
+Metabolism	Quá Trình Trao Đổi Chất
+Cardiovascular	Tim Mạch
+Hearing Impairment	Khiếm thính
+Hearing Loss	Mất Khả Năng Nghe
+Deficit	Thiếu Hụt
+Autistic	Tự Kỉ
+Disorder	Rối Loạn
+Distress	Đau Khổ
+Dysentery	Tả Lị
+Antibiotics	Kháng Sinh
+Bacteria	Vi Khuẩn
+Sanitation	Vệ Sinh
+Vaccinate	Tiêm Chủng
+Infection	Nhiễm Trùng
+Malaria	Sốt Rét
+To Be Prone To	Dễ Mắc
+Well-Being	Khoẻ mạnh
+Welfare	Phúc Lợi
+Asthma	Hen Suyễn
+Eyesight	Tầm Nhìn
+Polio	Bệnh Bại Liệt
+Reemerging	Tái Phát
+Respiratory	Hô Hấp
+Epidemic	Bệnh Dịch
+Surgery	Phẫu Thuật
+Inject	Tiêm
+Diabetes	Tiểu Đường
+Obesity	Béo Phì
+Healthcare	Y Tế
+Counter-Productive	Phản Tác Dụng
+Caloric Intake	Lượng Calo Hấp Thụ
+
+### History
+Descend From Sth	Bắt Nguồn Từ
+Precede	Đi Trước
+Plateau	Cao Nguyên
+Circuitous	Loanh Quanh, Vòng Quanh
+Ascent	Sự Đi Lên
+Hindsight	Nhận Thức Sau Khi Việc Đã Xảy Ra
+Retrospect	Nhận Thức Sau Khi Việc Đã Xảy Ra
+Dimension	Chiều, Kích Thước, Khổ
+Historian	Nhà Sử Học
+Origin	Nguồn Gốc
+Archaeologist	Nhà Khảo Cổ Học
+Date Back To	Đã Tồn Tại Từ
+Refractive	Có Tính Khúc Xạ
+Astronomy	Thiên Văn Học
+Revolution	Cuộc Cách Mạng
+Traditional	Có Tính Truyền Thống
+Commemoration	Sự Kỉ Niệm
+Regeneration	Sự Tái Sinh
+Outdated	Lỗi Thời
+Overladen	Chất Quá Đầy
+Dispute	Tranh Chấp
+Initiate	Bắt Đầu
+Reveal	Lộ Ra
+Excavation	Khai Quật
+Artefact	Tạo Tác
+Salvage	Cứu Vớt
+Civilisation	Nền Văn Minh
+Ancestor	Tổ Tiên
+Sediment	Trầm Tích
+Descendant	Hậu Duệ
+Civil War	Nội Chiến
+Cannibalism	Tục Ăn Thịt Người
+Collapse	Sụp Đổ
+Catastrophe	Thảm Họa
+Prehistoric	Tiền Sử
+Pioneer	Người Tiên Phong
+Steward	Người Tùy Tùng
+Legend	Huyền Thoại
+Millennium	Thiên Niên Kỉ
+Entitle	Trao Quyền
+Emperor	Đức Vua
+Noble	Danh Giá
+Conquer	Chinh Phục
+Merchant	Thương Nhân
+Antique	Đồ Cổ
+
+### Language
+Bilingual	Thông Thạo Hai Thứ Tiếng
+Auditory	Thính Giác
+Linguistic	Ngôn Ngữ
+Perceptual	Tri Giác
+Metaphor	Phép Ẩn Dụ
+Paradigm	Mô Hình
+Taxonomic	Thuộc Sự Phân Loại
+Discrete	Riêng Biệt, Riêng Rẽ
+Ambiguity	Sự Tối Nghĩa
+Conjunction	Sự Liên Kết
+Etymology	Nguồn Gốc Từ
+Constituent	Thành Phần
+Dialect	Tiếng Địa Phương
+Idiolect	Vốn Từ Vựng Mà Một Người Biết Và Sử Dụng
+Concept	Khái Niệm
+Interpret	Biên Dịch
+Polyglot	Người Biết Nhiều Ngôn Ngữ
+Chaos	Hỗn Loạn
+Lexical	Từ Vựng
+Heyday	Thời Kì Hoàng Kim
+Poet	Nhà Thơ
+Critic	Nhà Phê Bình
+Quotation	Lời Trích Dẫn
+Analogy	Sự Tương Đồng
+Encyclopaedia	Bách Khoa Toàn Thư
+Decipher	Giải Mã
+Narrative	Chuyện Kể
+Invective	Lời Lăng Mạ
+Polemic	Bút Chiến, Cuộc Tranh Luận
+Codify	Hệ Thống Hóa
+Expression	Sự Diễn Đạt
+Eloquent	Hùng Biện
+Subtle	Tinh Tế
+Exotic	Ngoại Lai
+Verbal	Bằng Lời
+Encode	Mã Hóa
+
+### Psychology
+Stimuli	Kích Thích
+Dopamine	Hóoc Môn Hạnh Phúc
+Neuron	Nơ Ron
+Trigger	Kích Hoạt
+Invoke	Kích Thích
+Meditation	Thiền
+Sensory	Thuộc Về Giác Quan
+Theoretical	Lý Thuyết
+Mechanism	Cơ Chế
+Psychic	Ngoại Cảm
+Cognitive	Nhận Thức
+Mesmerise	Lôi Cuốn
+Hypnosis	Thôi Miên
+Placebo	Giả Dược
+Instinct	Bản Năng
+Hard-Wired	Khắc Sâu Vào
+Intuitive	Trực Giác
+Molecular	Thuộc Phân Tử
+Innovative	Cách Tân Đổi Mới
+Inherent	Cố Hữu
+Introvert/Extrovert	Hướng Nội/Ngoại
+Spontaneous	Tự Phát
+Intimidate	Hăm Dọa
+Fluid	Chất Lỏng
+The Nervous System	Hệ Thần Kinh
+Blur, Fuzzy	Mờ
+Abstract	Trừu Tượng
+Mimic	Bắt Chước
+Perceive	Nhận Thức
+Distinct	Khác Biệt
+Conjecture	Phỏng Đoán
+Novelty	Tính Mới Lạ
+Phobia	Ám Ảnh
+Perception	Nhận Thức
+Intertwine	Bện Chặt
+Arousal	Khơi Dậy, Đánh Thức
+Hypothesis	Giả Thiết
+Deception	Lừa Dối
+Delusion	Ảo Tưởng
+
+### Technology
+Gadget	Thiết Bị
+Mechanical	Thuộc Về Cơ Khí
+Capacity	Dung Tích
+Ventilation System	Hệ Thống Thông Khí
+Airstream	Dòng Không Khí
+Computer-Controlled	Điều Khiển Bằng Máy Tính
+Harsh Condition	Điều Kiện Khắc Nghiệt
+Unconscious	Vô Thức
+Compound	Hợp Chất
+Foundation	Nền Móng, Nền Tảng
+Shift	Ca Kíp, Sự Dịch Chuyển
+Cell Line	Chuỗi Tế Bào
+Deprive	Lấy Đi, Cướp Đoạt
+Virtual World	Thế Giới Ảo
+Cognitive	Thuộc Về Nhận Thức
+Pressure	Áp Lực, Áp Suất
+Regulate	Điều Tiết
+Consensus	Sự Đồng Thuận
+Theorist	Nhà Lý Thuyết Học
+Mass	Khối Lượng
+Constrain	Hạn Chế, Ràng Buộc
+Vertical	Thẳng Đứng
+Horizontal	Nằm Ngang
+Abrupt	Đột Ngột
+Unconvinced	Không Thuyết Phục
+Harness	Tận Dụng
+Bear	Chống Chịu, Chống Đỡ
+Sophistication	Sự Tinh Vi
+Burst	Bùng Nổ
+Arousal	Sự Khơi Dậy
+Unpredictable	Không Thể Dự Đoán Được
+Fatigue	Sự Mỏi (Của Kim Loại), Mệt Mỏi (Của Con Người)
+Variable	Biến Số
+Transient	Ngắn Ngủi, Thoáng Qua
+Distractible	Dễ Mất Tập Trung
+Revolutionary	Mang Tính Cách Mạng
+Natural Substance	Hợp Chất Tự Nhiên
+Reshaped	Được Định Hình Lại
+Patent	Bản Quyền
+Hollow	Rỗng
+Mould	Khuôn, Đúc
+Artificial Intelligence	Trí Thông Minh Nhân Tạo
+Coin A Term	Đưa Ra Một Thuật Ngữ
+Breakthrough	Đột Phá
+Prototype	Sản Phẩm Mẫu, Vật Mẫu
+Materialise	Vật Chất Hóa, Cụ Thể Hóa
+
