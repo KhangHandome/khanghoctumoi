@@ -259,6 +259,39 @@ function addMultipleWordsToTopic() {
   changeTopic();
 }
 
+function processFileContent(content) {
+  const lines = content.split('\n');
+  let currentTopic = "";
+  let count = 0;
+
+  lines.forEach(line => {
+    line = line.trim();
+    if (line.startsWith("###")) {
+      currentTopic = line.replace(/^###\s*/, '').trim();
+      if (!topics[currentTopic]) {
+        topics[currentTopic] = [];
+        const option = document.createElement("option");
+        option.value = currentTopic;
+        option.text = currentTopic;
+        document.getElementById("topicSelector").appendChild(option);
+      }
+    } else if (line && currentTopic) {
+      const [en, vi] = line.split(/\t|\s{2,}/);
+      if (en && vi) {
+        topics[currentTopic].push({ en: en.trim(), vi: vi.trim() });
+        count++;
+      }
+    }
+  });
+
+  alert(`Đã nạp ${count} từ từ file vào ${Object.keys(topics).length} chủ đề.`);
+  const selector = document.getElementById("topicSelector");
+  if (selector.options.length > 0) {
+    selector.value = selector.options[0].value;
+    changeTopic();
+  }
+}
+
 function loadWordsFromFile() {
   const fileInput = document.getElementById('fileInput');
   const file = fileInput.files[0];
@@ -266,38 +299,27 @@ function loadWordsFromFile() {
 
   const reader = new FileReader();
   reader.onload = function(e) {
-    const lines = e.target.result.split('\n');
-    let currentTopic = "";
-    let count = 0;
-
-    lines.forEach(line => {
-      line = line.trim();
-      if (line.startsWith("###")) {
-        currentTopic = line.replace(/^###\s*/, '').trim();
-        if (!topics[currentTopic]) {
-          topics[currentTopic] = [];
-          const option = document.createElement("option");
-          option.value = currentTopic;
-          option.text = currentTopic;
-          document.getElementById("topicSelector").appendChild(option);
-        }
-      } else if (line && currentTopic) {
-        const [en, vi] = line.split(/\t|\s{2,}/);
-        if (en && vi) {
-          topics[currentTopic].push({ en: en.trim(), vi: vi.trim() });
-          count++;
-        }
-      }
-    });
-
-    alert(`Đã nạp ${count} từ từ file vào ${Object.keys(topics).length} chủ đề.`);
-    const selector = document.getElementById("topicSelector");
-    if (selector.options.length > 0) {
-      selector.value = selector.options[0].value;
-      changeTopic();
-    }
+    processFileContent(e.target.result);
   };
   reader.readAsText(file);
+}
+
+function loadDefaultFile() {
+  fetch('english_word.txt')
+    .then(response => {
+      if (!response.ok) {
+        throw new Error('Không tìm thấy file a.txt');
+      }
+      return response.text();
+    })
+    .then(content => {
+      processFileContent(content);
+    })
+    .catch(error => {
+      console.error('Lỗi khi nạp file a.txt:', error);
+      // Optionally, you can alert the user
+      // alert('Không thể nạp file a.txt. Vui lòng kiểm tra file.');
+    });
 }
 
 function exportTopicsToFile() {
@@ -345,6 +367,11 @@ function updateWordList() {
   });
   list.style.display = wordListVisible ? "block" : "none";
 }
+
+// Load english_word.txt when the page loads
+window.onload = function() {
+  loadDefaultFile();
+};
 </script>
 </body>
 </html>
