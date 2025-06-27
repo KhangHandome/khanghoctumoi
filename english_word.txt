@@ -193,8 +193,7 @@ Extinction	Tuyệt Chủng
 Die Out	Tuyệt Chủng
 Contaminate	Làm Ô Nhiễm
 Adaptation	Thích Nghi
-Bankrupt	Phá Sản
-Consumer Goods	Hàng Tiêu Dùng
+
 
 ### Health
 Afflict	Hành Hạ
